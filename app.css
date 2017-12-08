@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+  background-color: #fff;
+  font-family: 'Merriweather', serif;
+}
+
+.tip{
+  width: 130px;
+  border: 1px solid #fff;
+  background-color: #2E5894;
+  color: white;
+  font-size: 14px;
+  padding: 14px 4px 14px 4px;
+}
+
+.map{
+  width:1400px;
+  height:900px;
+  margin:auto;
+}
+
+.country{
+  fill: #B2BEB5;
+  stroke: #2E5894;
+}
+
+.meteor{
+  fill: #00c6d1;
+  stroke: #fff;
+  opacity: 0.8;
+}
